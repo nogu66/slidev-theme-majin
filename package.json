@@ -1,10 +1,38 @@
 {
   "name": "slidev-theme-majin",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A professional Slidev theme with 17+ Google Slides-inspired layouts for creating stunning presentations",
+  "author": "Yuta Noguchi",
+  "license": "MIT",
   "type": "module",
   "keywords": [
     "slidev-theme",
-    "slidev"
+    "slidev",
+    "presentation",
+    "slides",
+    "google-slides",
+    "theme",
+    "professional",
+    "business",
+    "kpi",
+    "timeline",
+    "cards"
+  ],
+  "homepage": "https://github.com/nogu66/slidev-theme-majin#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nogu66/slidev-theme-majin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nogu66/slidev-theme-majin/issues"
+  },
+  "files": [
+    "components",
+    "layouts",
+    "setup",
+    "styles",
+    "README.md",
+    "LICENSE"
   ],
   "engines": {
     "node": ">=18.0.0"
@@ -22,12 +50,11 @@
   "devDependencies": {
     "@slidev/cli": "^52.3.0"
   },
-  "//": "Learn more: https://sli.dev/guide/write-theme.html",
   "slidev": {
     "colorSchema": "both",
     "defaults": {
       "fonts": {
-        "sans": "Nunito Sans",
+        "sans": "Arial",
         "mono": "Fira Code"
       }
     }

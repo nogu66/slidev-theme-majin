@@ -1,0 +1,32 @@
+# Development files
+example.md
+example.md.bak
+example-simple.md
+.vscode/
+.claude/
+ref/
+
+# Git files
+.git/
+.gitignore
+
+# Node modules
+node_modules/
+
+# Build artifacts
+dist/
+.slidev/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.swp
+*.swo
+*~
+.idea/
+
+# Logs
+*.log
+npm-debug.log*

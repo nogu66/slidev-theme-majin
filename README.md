@@ -141,7 +141,7 @@ MIT
 
 ## Author
 
-Created by まじん (Majin)
+Created by Yuta Noguchi
 
 ---
 
